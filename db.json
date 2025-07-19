@@ -1,20 +1,22 @@
-[
-  {
-    "id": 1,
-    "title": "Cách nấu phở bò truyền thống",
-    "body": "Hướng dẫn chi tiết cách nấu phở bò truyền thống thơm ngon với nước dùng đậm đà.",
-    "userId": 1
-  },
-  {
-    "id": 2,
-    "title": "Du lịch Đà Lạt",
-    "body": "Kinh nghiệm du lịch Đà Lạt tự túc: Nhũng địa điểm nổi tiếng và món ăn ngon không thể bỏ qua.",
-    "userId": 2
-  },
-  {
-    "id": 3,
-    "title": "Hướng dẫn sử dụng Flutter",
-    "body": "Giới thiệu về cách dùng Flutter để phát triển ứng dụng di động.",
-    "userId": 3
-  }
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Cách nấu phở bò truyền thống",
+      "body": "Hướng dẫn chi tiết cách nấu phở bò truyền thống thơm ngon với nước dùng đậm đà.",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Du lịch Đà Lạt",
+      "body": "Kinh nghiệm du lịch Đà Lạt tự túc: Những địa điểm nổi tiếng và món ăn ngon không thể bỏ qua.",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "title": "Hướng dẫn sử dụng Flutter",
+      "body": "Giới thiệu về cách dùng Flutter để phát triển ứng dụng di động.",
+      "userId": 3
+    }
+  ]
+}
